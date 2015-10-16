@@ -33,7 +33,7 @@ nav li{
 	padding: 0;
 }
 nav li:hover a{
-	background: red;
+	background: orange;
 	border: 1 px solid #1f1f1f;
 }
 nav a{
